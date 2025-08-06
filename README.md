@@ -1,3 +1,5 @@
+# Prediksi Nilai Tanah dengan Random Forest (RF)
+
 Project ini bertujuan untuk memprediksi nilai tanah di sekitar Bandara Dhoho, Kediri, Jawa Timur, dengan menggunakan algoritma Random Forest (RF). Analisis dilakukan dengan memanfaatkan data spasial, seperti jarak ke infrastruktur penting dan nilai zona tanah (ZNT) tahun 2022–2024.
 
 #Tujuan
